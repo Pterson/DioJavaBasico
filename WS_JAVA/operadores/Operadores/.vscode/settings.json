@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "totvsLanguageServer.welcomePage": false,
+    "totvsLanguageServer.editor.linter.includes": "D:\\ESTUDOS\\UDEMY\\PROTHEUS\\TOTVS\\PROTHEUS12\\Protheus\\include",
+    "java.debug.settings.onBuildFailureProceed": true
+}
