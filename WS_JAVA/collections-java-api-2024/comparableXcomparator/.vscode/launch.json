@@ -2,6 +2,27 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
+			"type": "java",
+			"name": "CadastroProdutos",
+			"request": "launch",
+			"mainClass": "main.Ordenacao.CadastroProdutos",
+			"projectName": "comparableXcomparator_5674c5b1"
+		},
+		{
+			"type": "java",
+			"name": "AgendaContatos",
+			"request": "launch",
+			"mainClass": "main.Pesquisa.AgendaContatos",
+			"projectName": "comparableXcomparator_5674c5b1"
+		},
+		{
+			"type": "java",
+			"name": "ConjuntoConvidados",
+			"request": "launch",
+			"mainClass": "main.OperacoesBasicas.ConjuntoConvidados",
+			"projectName": "comparableXcomparator_5674c5b1"
+		},
+		{
 			"type": "totvs_language_debug",
 			"request": "launch",
 			"name": "Depuração do idioma TOTVS",
